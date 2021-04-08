@@ -13,5 +13,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+<img src="./vuejs.svg" height="20px" width="20px"></img>
+
+<img src="https://img.icons8.com/fluent/48/000000/stargaze.png" height="20px" width="20px"/>
 
 <figure><embed src="https://wakatime.com/share/@067d26d0-ffb0-4ddb-a982-54b5f8012886/8335c241-a0ef-4738-9949-68e725c3e5eb.svg"></embed></figure>
