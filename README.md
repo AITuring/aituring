@@ -1,5 +1,7 @@
 ## Hi there 👋
 ### I'm AITuring
+#### A Front-end developer
+![](./My-work.gif)
 
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
