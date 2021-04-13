@@ -1,7 +1,8 @@
 ## Hi there 👋
 ### I'm AITuring
 #### A Front-end developer
-![](http://image-aituring.test.upcdn.net/dhx.gif)
+
+<img src="./dhx.gif" width="400px"/>
 
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
