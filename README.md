@@ -1,10 +1,10 @@
+<img alt="今日诗词" src="https://v2.jinrishici.com/one.svg?font-size=30&spacing=2&color=skyblue" style="max-width:100%; display: block; margin: 0 auto;">
+
 ## Hi there 👋
 ### I'm AITuring
 #### A Front-end developer
 
 <!-- <img src="./dhx.gif" width="400px"/> -->
-<img alt="今日诗词" src="https://v2.jinrishici.com/one.svg" style="max-width:100%; display: block; margin: 0 auto;">
-
 
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
