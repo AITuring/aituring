@@ -54,17 +54,13 @@ Sunday       36 commits     ███░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    4 hrs 42 mins       ████████████████████████░   99.27% 
-JavaScript               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.52% 
-sh                       0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.21%
+No Activity Tracked This Week
 
 🔥 Editors: 
-Browser                  4 hrs 42 mins       ████████████████████████░   99.27% 
-VS Code                  1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.52% 
-Zsh                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.21%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      4 hrs 44 mins       █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -85,7 +81,7 @@ Python                   3 repos             ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/AITuring/AITuring/main/charts/bar_graph.png) 
 
 
- Last Updated on 05/02/2022 00:44:55 UTC
+ Last Updated on 06/02/2022 01:00:07 UTC
 <!--END_SECTION:waka-->
 
 
