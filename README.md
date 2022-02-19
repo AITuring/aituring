@@ -7,21 +7,19 @@
 <!-- <img src="./dhx.gif" width="400px"/> -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C200%20hrs%2036%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-456%20Thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 2 Contributions in the Year 2022
+> 🏆 3 Contributions in the Year 2022
  > 
 > 📦 1.1 MB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 62 Public Repositories 
+> 📜 63 Public Repositories 
  > 
 > 🔑 3 Private Repositories  
  > 
@@ -87,7 +85,7 @@ Python                   3 repos             ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/AITuring/AITuring/main/charts/bar_graph.png) 
 
 
- Last Updated on 18/02/2022 00:52:38 UTC
+ Last Updated on 19/02/2022 00:46:15 UTC
 <!--END_SECTION:waka-->
 
 
