@@ -7,7 +7,7 @@
 <!-- <img src="./dhx.gif" width="400px"/> -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C623%20hrs%2014%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-14-blue)
 
@@ -87,7 +87,7 @@ Python                   3 repos             ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/AITuring/AITuring/main/charts/bar_graph.png) 
 
 
- Last Updated on 27/07/2022 01:09:40 UTC
+ Last Updated on 27/07/2022 01:14:20 UTC
 <!--END_SECTION:waka-->
 
 
