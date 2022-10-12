@@ -7,7 +7,7 @@
 <!-- <img src="./dhx.gif" width="400px"/> -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C829%20hrs%2044%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C833%20hrs%208%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
@@ -54,13 +54,16 @@ Sunday       3 commits      ██░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+TypeScript               2 hrs 33 mins       ██████████████████░░░░░░░   74.86% 
+LESS                     49 mins             ██████░░░░░░░░░░░░░░░░░░░   24.02% 
+sh                       2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.12%
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  3 hrs 22 mins       ████████████████████████░   98.88% 
+Zsh                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.12%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      3 hrs 24 mins       █████████████████████████   100.0%
 
 ```
 
@@ -81,7 +84,7 @@ Python                   3 repos             ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/AITuring/AITuring/main/charts/bar_graph.png) 
 
 
- Last Updated on 12/10/2022 01:26:58 UTC
+ Last Updated on 12/10/2022 01:32:00 UTC
 <!--END_SECTION:waka-->
 
 
