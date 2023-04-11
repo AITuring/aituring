@@ -21,7 +21,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/AITuring/AITuring/blob/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/AITuring/aituring/blob/output/snake.svg" alt="Snake animation" />
 
 ###
 
