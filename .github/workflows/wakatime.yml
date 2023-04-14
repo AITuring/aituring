@@ -21,10 +21,13 @@ jobs:
       - name: Set up Node.js
         uses: actions/setup-node@v2
         with:
-          node-version: '14'
+          node-version: '16'
+          
+      - name: Install dotenv
+        run: npm install dotenv
 
       - name: Install Dependencies
-        run: npm install
+        run: npm install 
 
       - name: Set Environment Variables
         run: echo "API_KEY=$API_KEY\nAPI_SECRET=$API_SECRET" >> .env
