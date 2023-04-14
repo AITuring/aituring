@@ -33,7 +33,7 @@ jobs:
         run: echo "API_KEY=$API_KEY\nAPI_SECRET=$API_SECRET" >> .env
 
       - name: Update Readme
-        uses: nick22985/Dev-Stats@master
+        uses: AITuring/Dev-Stats@master
         with:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
