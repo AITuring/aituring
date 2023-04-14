@@ -18,11 +18,6 @@ jobs:
       API_SECRET: ${{ secrets.API_SECRET }}
     runs-on: ubuntu-latest
     steps:
-      - name: Set up Node.js
-        uses: actions/setup-node@v2
-        with:
-          node-version: '16'
-          
       - name: Install dotenv
         run: npm install dotenv
 
