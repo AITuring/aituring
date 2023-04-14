@@ -1,27 +1,23 @@
-name: Profile Readme Dev Stats
-  uses: anmol098/waka-readme-stats@V3
-  with:
-    # Github access token with Repo Scope
-    GH_TOKEN: ${{ secrets.GH_TOKEN }}
-    # Wakatime API key
-    WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-    # Github Summary
-    SHOW_SHORT_INFO: # optional, default is true
-    # Shows language activity for that week
-    SHOW_BREAK_DOWN: # optional, default is true
-    # Shows timezone. Requires SHOW_BREAK_DOWN=true
-    SHOW_TIMEZONE: # optional, default is true
-    # Shows editors used in the week SHOW_BREAK_DOWN=true
-    SHOW_EDITORS: # optional, default is true
-    # Show week coding language breakdown
-    SHOW_LANGUAGES: # optional, default is true
-    # Shows Operating System
-    SHOW_OS: # optional, default is true
-    # Show Hostnames of computers
-    SHOW_HOSTS: # optional, default is true
-    # Shows github repo language counts
-    SHOW_LANGUAGE_PER_REPO: # optional, default is true
-    # Show Projects worked on that week
-    SHOW_PROJECTS: # optional, default is true
-    # You can exclude repos that you don't want showing on your readme page
-    EXCLUDE_PROJECT: # optional
+name: Waka Readme
+
+on:
+  push:
+      branches:
+      - main
+      - release/*
+  schedule:
+    # Runs at 12am IST
+    - cron: '0 0 * * *'
+  workflow_dispatch:
+jobs:
+  update-readme:
+    name: Update Readme with Metrics
+    runs-on: ubuntu-latest
+    steps:
+      - uses: anmol098/waka-readme-stats@master
+        with:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          SHOW_PROJECTS: "False"
+          SHOW_LINES_OF_CODE: "True"
+          LOCALE: "en"
