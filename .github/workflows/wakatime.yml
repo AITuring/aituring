@@ -1,12 +1,12 @@
 name: Profile Readme Dev Stats
   # You may pin to the exact commit or the version.
-  # uses: nick22985/Dev-Stats@5122426d6a37510d86974fecf748862c0731b6a6
-  uses: nick22985/Dev-Stats@V0.0.4
+#   uses: nick22985/Dev-Stats@5122426d6a37510d86974fecf748862c0731b6a6
+  uses: nick22985/Dev-Stats
   with:
     # Github access token with Repo Scope
-    GH_TOKEN: 
+    GH_TOKEN: ${{ secrets.GH_TOKEN }}
     # Wakatime API key
-    WAKATIME_API_KEY: 
+    WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
     # Github Summary
     SHOW_SHORT_INFO: # optional, default is true
     # Shows language activity for that week
