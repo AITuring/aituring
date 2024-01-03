@@ -41,27 +41,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" width="52" alt="git logo"  />
 </div>
 
-###
-<!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C237%20hrs%2051%20mins-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-7.2%20million%20lines%20of%20code-blue)
-
-**🐱 My GitHub Data** 
-
-> 📦 570.7 kB Used in GitHub's Storage 
- > 
-> 🏆 39 Contributions in the Year 2023
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 66 Public Repositories 
- > 
-> 🔑 4 Private Repositories 
- > 
-
-<!--END_SECTION:waka-->
-
+<img
+  src="https://github.com/aituring/aituring/blob/main/images/stat.svg"
+  alt="Avinal WakaTime Activity"
+/>
 
