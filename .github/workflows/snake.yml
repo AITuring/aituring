@@ -19,13 +19,6 @@ jobs:
     timeout-minutes: 10
 
     steps:
-      # Checkout the repository before processing
-      - name: Checkout repository
-        uses: actions/checkout@v2
-
-      # Create the output directory if it does not exist
-      - name: Create output directory
-        run: mkdir -p dist
 
       # Generates a snake game from a GitHub user contributions graph
       - name: Generate github-snake.svg
