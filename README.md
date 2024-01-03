@@ -42,7 +42,7 @@
 </div>
 
 <img
-  src="https://github.com/aituring/aituring/blob/main/images/stat.svg"
-  alt="Avinal WakaTime Activity"
+  src="https://github.com/aituring/aituring/blob/putput/images/stat.svg"
+  alt="WakaTime Activity"
 />
 
