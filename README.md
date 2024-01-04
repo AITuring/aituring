@@ -15,7 +15,7 @@
 
 <div align="center">
    <img
-    src="https://github.com/aituring/aituring/blob/output/images/stat.svg"
+    src="https://github.com/aituring/aituring/blob/wakatime/images/stat.svg"
     alt="WakaTime Activity"
   />
 </div>
