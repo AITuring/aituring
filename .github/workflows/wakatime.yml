@@ -28,8 +28,7 @@ jobs:
           git branch -f wakatime || git checkout -b wakatime
           git checkout wakatime
 
-      - name: Generate WakaTime stats
-        uses: avinal/Profile-Readme-WakaTime@master
+      - uses: avinal/Profile-Readme-WakaTime@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GITHUB_TOKEN: ${{ github.token }}
