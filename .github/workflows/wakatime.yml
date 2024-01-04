@@ -4,7 +4,7 @@ name: Build Graph
 on:
   schedule:
     # Runs at 12 am  '0 0 * * *'  UTC
-    - cron: '1 0 * * *'
+    - cron: '0 */6 * * *'
   workflow_dispatch:
 
   push:
