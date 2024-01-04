@@ -16,18 +16,23 @@ jobs:
       - name: Checkout code
         uses: actions/checkout@v2
         with:
-          fetch-depth: 0  # fetch all history so we can push to the new branch
+          fetch-depth: 0  # fetch all history for pushing
+
+      - name: Set up Git
+        run: |
+          git config user.name "AITuring"
+          git config user.email "shspku365@gmail.com"
 
       - name: Create new branch
         run: |
-          git checkout -b wakatime || git checkout wakatime
+          git branch -f wakatime || git checkout -b wakatime
+          git checkout wakatime
 
       - name: Generate WakaTime stats
         uses: avinal/Profile-Readme-WakaTime@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GITHUB_TOKEN: ${{ github.token }}
-          BRANCH: "wakatime"
           COMMIT_MSG: "new stats received :dog:"
           STATS_RANGE: last_30_days
 
